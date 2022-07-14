@@ -1,3 +1,57 @@
 {
-    "StudentContact": "<html><body><p>@<font size=\"5\"><b><u>Student Life</u></b></font></p><b>Atendimento Presencial:</b></br>Segunda a Sexta - feira: das 7h às 20h</br>Sábado: das 8h às 14h</br><b>Atendimento Telefônico:</b></br>(11) 4504 - 2400</br>Segunda a Sexta - feira: das 8h às 20h</br>Email: <u>studentlife @insper.edu.br</u></br></br><p><font size=\"5\"><b><u>Help Desk</u></b></font></p><b>Atendimento Presencial:</b></br>Segunda a Sexta - feira: das 7h às 22h</br>Sábado: das 8h às 17h</br><b>Atendimento Telefônico:</b></br>(11) 4504 - 2550</br>Segunda a Sexta - feira: das 8h às 22h</br>Sábado: das 8h às 17h</br>Email: <u>helpdesk @insper.edu.br</u></br></br><p><font size=\"5\"><b><u>Biblioteca</u></b></font></p>de Segunda a Sexta - feira: das 7h às 22h</br>Sábado: das 8h às 17h</br>Email: <u>biblioteca @insper.edu.br</u></br></br><p><font size=\"5\"><b><u>Reprografia</u></b></font></p>de Segunda a Sexta - feira: das 7h às 22h</br>Sábado: das 8h às 17h</br>Email: <u>reprografiasp @insper.edu.br</u></br></br><p><font size=\"5\"><b><u>Relações Internacionais</u></b></font></p>de Segunda a Sexta - feira: das 9h às 18h</br>Email: <u>international @insper.edu.br</u></br></br><p><font size=\"5\"><b><u>Apoio Acadêmico Stricto Sensu</u></b></font></p>de Segunda a Sexta - feira: das 9h às 18h</br>Email: <u>apoioacademicostrictosensu @insper.edu.br</u></body></html>"
+  "Student": {
+    "title": "Student Life",
+    "presential": {
+      "title": "Atendimento Presencial:",
+      "week": "Segunda a Sexta - feira: das 7h às 20h",
+      "weekend": "Sábado: das 8h às 14h"
+    },
+    "telephone": {
+      "title": "Atendimento Telefônico:",
+      "phone": "(11) 4504 - 2400",
+      "week": "Segunda a Sexta - feira: das 8h às 20h"
+    },
+    "email": "studentlife @insper.edu.br"
+  },
+  "Desk": {
+    "title": "Help Desk",
+    "presential": {
+      "title": "Atendimento Presencial:",
+      "week": "Segunda a Sexta - feira: das 7h às 22h",
+      "weekend": "Sábado: das 8h às 17h"
+    },
+    "telephone": {
+      "title": "Atendimento Telefônico:",
+      "phone": "(11) 4504 - 2550",
+      "week": "Segunda a Sexta - feira: das 8h às 22h",
+      "weekend": "Sábado: das 8h às 17h"
+    },
+    "email": "helpdesk @insper.edu.br"
+  },
+  "Biblioteca": {
+    "title": "Biblioteca",
+    "presential": {
+      "week": "Segunda a Sexta - feira: das 7h às 22h",
+      "weekend": "Sábado: das 8h às 17h"
+    },
+    "email": "biblioteca @insper.edu.br"
+  },
+  "Reprografia": {
+    "title": "Reprografia",
+    "presential": {
+      "week": "Segunda a Sexta - feira: das 7h às 22h",
+      "weekend": "Sábado: das 8h às 17h"
+    },
+    "email": "reprografiasp @insper.edu.br"
+  },
+  "Internacionais": {
+    "title": "Relações Internacionais",
+    "week": "Segunda a Sexta - feira: das 9h às 18h",
+    "email": "international @insper.edu.br"
+  },
+  "Apoio": {
+    "title": "Apoio Acadêmico Stricto Sensu",
+    "week": "Segunda a Sexta - feira: das 9h às 18h",
+    "email": "apoioacademicostrictosensu @insper.edu.br"
+  }
 }
